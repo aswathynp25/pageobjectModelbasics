@@ -9,7 +9,7 @@ public class accountsPage extends Page{
 	
 	public CreateAccountPage gotocreateaccount(){
 		
-	//Using E git plgin	
+	//Using E git plugin	
 	click("CreateAccountPage_XPATH");
 	return new CreateAccountPage();
 	}
