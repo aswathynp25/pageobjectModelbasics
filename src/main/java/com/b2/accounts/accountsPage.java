@@ -9,7 +9,7 @@ public class accountsPage extends Page{
 	
 	public CreateAccountPage gotocreateaccount(){
 		
-		
+		// creating account
 	click("CreateAccountPage_XPATH");
 	return new CreateAccountPage();
 	}
