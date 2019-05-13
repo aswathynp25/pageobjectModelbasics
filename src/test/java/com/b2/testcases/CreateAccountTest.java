@@ -12,6 +12,7 @@ import com.b2.accounts.accountsPage;
 import com.b2.utilities.Utilities;
 
 public class CreateAccountTest {
+	
 	@Test(dataProviderClass=Utilities.class,dataProvider="dp")
 	public void createAccountTest(Hashtable<String,String> data){
 		
