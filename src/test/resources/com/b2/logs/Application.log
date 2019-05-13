@@ -1,0 +1,11 @@
+13/05/2019 11:22:10 devpinoyLogger Config file loaded !!!
+13/05/2019 11:22:10 devpinoyLogger OR file loaded !!!
+13/05/2019 11:22:19 devpinoyLogger Navigated to : https://www.zoho.com/
+13/05/2019 11:22:25 devpinoyLogger Clicking on an Element : loginlink_CSS
+13/05/2019 11:22:26 devpinoyLogger Typing in an Element : email_CSS entered value as : aswathynp04@gmail.com
+13/05/2019 11:22:28 devpinoyLogger Typing in an Element : password_CSS entered value as : Aswathy@123
+13/05/2019 11:22:30 devpinoyLogger Clicking on an Element : signbtn_CSS
+13/05/2019 11:22:39 devpinoyLogger Clicking on an Element : GoCRM_CSS
+13/05/2019 11:22:41 devpinoyLogger Clicking on an Element : GoAccount_XPATH
+13/05/2019 11:22:46 devpinoyLogger Clicking on an Element : CreateAccountPage_XPATH
+13/05/2019 11:22:47 devpinoyLogger Typing in an Element : AccountName_CSS entered value as : achu
